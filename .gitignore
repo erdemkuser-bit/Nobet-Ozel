@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Veritabanı
+*.db
+
+# Hassas/kişisel veriler
+config.json
+personel_listesi.xlsx
+
+# Ortam
+.env
+*.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
